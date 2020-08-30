@@ -28,4 +28,6 @@ I played around with a random number generator and changed the number's range an
 
 Tried paste and copy functions, couldn't get them to work
 
+Next try magic commands 
+
 
