@@ -7,12 +7,31 @@
 # H2 Data- Science Notes (Chapters 1 and 2)
 Try 10 to 15 different lines of code from Chapter 2
 
-*The u here in front of the quotation stands for unicode, a standard form of string encoding. Note that IPython shows the time zone string object representation here rather
-than its print equivalent:
-In [20]: print records[0]['tz']
-America/New_York*
+More Chapter 2..... I used the wrong book edition pdf
 
- time_zones[:10] I was practicing coding with time zones and got a error, relooked at code 
+2nd edition....
 
+I played around with a random number generator and changed the number's range and got this {0: 0.7421195642083042,
+ 1: 0.30263937102102395,
+ 2: -0.12977497057020013,
+ 3: -0.5059297244179484,
+ 4: -0.7781342285853226,
+ 5: 1.8731984453374355,
+ 6: -0.6031656379545273,
+ 7: 0.36245289194897146,
+ 8: -0.7285581965020274,
+ 9: -0.41968850995034457,
+ 10: -1.5639996146272461,
+ 11: -1.521590972097833,
+ 12: -0.4573066887027025,
+ 13: -0.44987301352870773,
+ 14: 0.2959577240602433,
+ 15: -0.27799378122821683,
+ 16: 0.2917644857650441,
+ 17: 1.8079727478693906,
+ 18: 0.9574914191707341,
+ 19: 0.6265720826494132}
+
+%run was not working when I ran it
 
 
