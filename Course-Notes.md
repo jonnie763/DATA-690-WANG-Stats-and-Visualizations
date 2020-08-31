@@ -5,29 +5,27 @@
 4. Placing certain letters on the end of the file changes the nature of the file. 
 
 # H2 Data- Science Notes (Chapters 1 and 2)
-Try 10 to 15 different lines of code from Chapter 2
+Try some different lines of code from Chapter 2
 
-More Chapter 2..... I used the wrong book edition pdf
+*What I worked on
 
-2nd edition....
+- Hello World 
+- Number Generator 
+- Magic Command
+- Tab Feature
+- Comparisons 
+- Strings
+- None codes 
+- Dates and Time
+- Range 
 
-I played around with a random number generator and changed the number's range and got this {0: 0.7421195642083042,
-{0: 1.4233655349675551,
- 1: -0.6880596533153928,
- 2: 0.6408769763867574,
- 3: -0.4160036108183918,
- 4: 0.1599480011973749,
- 5: 0.15507463272826644,
- 6: -0.49603078497639785,
- 7: -1.75033896185012,
- 8: 1.2612870656776212,
- 9: 0.7719579126863879}
+*Things I need to work on from Chapter 2 
+
+- %run command
+- Scalar types
+- Bytes and Unicode 
+- Some Control Flow 
 
 
-%run was not working when I ran it
-
-Tried paste and copy functions, couldn't get them to work
-
-Next try magic commands 
 
 
