@@ -26,6 +26,18 @@ Try some different lines of code from Chapter 2
 - Bytes and Unicode 
 - Some Control Flow 
 
+# H3 Data- Science Notes (Session 2)
+
+- Use 2nd edition 
+- Run the book,practice a lot
+- Markdown documents our work
+- Keep four spaces indentation 
+- Shut down kernal when necessary 
+- exit()= exit
+- Rely on google 
+- 4 hour training python youtube link (look at link later)
+
+
 
 
 
