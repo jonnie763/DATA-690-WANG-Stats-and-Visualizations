@@ -37,6 +37,10 @@ Try some different lines of code from Chapter 2
 - Rely on google 
 - 4 hour training python youtube link (look at link later)
 - Use Google Colab 
+- Very important https://github.com/wcj365/python-stats-dataviz/blob/master/python_summary.md
+- String operation very important 
+
+
 
 
 
