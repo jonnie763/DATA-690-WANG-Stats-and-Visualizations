@@ -41,7 +41,7 @@ Try some different lines of code from Chapter 2
 - **String operation** very important 
 - Use Python 1 Basics
 -https://github.com/wcj365/python-stats-dataviz/blob/master/01%20-%20Python-Basics.ipynb
-- **Control Flow** 
+- **Control Flow** is very important
 
 
 
