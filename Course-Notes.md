@@ -40,6 +40,7 @@ Try some different lines of code from Chapter 2
 - Very important https://github.com/wcj365/python-stats-dataviz/blob/master/python_summary.md
 - String operation very important 
 - Use Python 1 Basics
+-https://github.com/wcj365/python-stats-dataviz/blob/master/01%20-%20Python-Basics.ipynb
 
 
 
