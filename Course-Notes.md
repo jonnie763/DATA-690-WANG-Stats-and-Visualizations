@@ -36,6 +36,7 @@ Try some different lines of code from Chapter 2
 - exit()= exit
 - Rely on google 
 - 4 hour training python youtube link (look at link later)
+- Use Google Colab 
 
 
 
