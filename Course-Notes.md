@@ -43,7 +43,7 @@ Try some different lines of code from Chapter 2
 -https://github.com/wcj365/python-stats-dataviz/blob/master/01%20-%20Python-Basics.ipynb
 - **Control Flow** is very important
 - http://littlecolumns.com/learn/python/python-basics/
-
+- https://www.youtube.com/watch?v=rfscVS0vtbw
 
 
 
