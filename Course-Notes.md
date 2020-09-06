@@ -45,6 +45,7 @@ Try some different lines of code from Chapter 2
 - http://littlecolumns.com/learn/python/python-basics/
 - https://www.youtube.com/watch?v=rfscVS0vtbw
 - https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf
+- http://littlecolumns.com/learn/python/
 
 
 
