@@ -50,6 +50,7 @@ Try some different lines of code from Chapter 2
 - https://www.learnpython.org/
 
 # H4 Data- Science Notes (Session #3)
+- None so far
 
 
 
