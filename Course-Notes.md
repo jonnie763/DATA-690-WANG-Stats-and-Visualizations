@@ -49,6 +49,8 @@ Try some different lines of code from Chapter 2
 - https://github.com/wcj365/python-stats-dataviz/blob/master/code-snippets/snippet-3.ipynb
 - https://www.learnpython.org/
 
+# H4 Data- Science Notes (Session #3)
+
 
 
 
